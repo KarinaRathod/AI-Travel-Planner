@@ -92,10 +92,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Limitations
 
-* No real-time booking APIs (flights/hotels)
-* Uses AI-generated estimates
 
 ---
 

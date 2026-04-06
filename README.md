@@ -90,7 +90,6 @@ streamlit run app.py
 * Personalized recommendations
 * Visual budget chart
 
----
 
 
 
